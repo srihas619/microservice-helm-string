@@ -1,5 +1,5 @@
 # Helm-microservice-app
-Helm chart to install an microservice-app with one service that serves a string and the other service that gets the string and serves the reverse of the same string.
+Helm chart to install a microservice-app with one service that serves a string and the other service that gets the string and serves the reverse of the same string.
 
 ## Install
 1. Make sure minikube is up and running.
