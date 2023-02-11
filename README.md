@@ -1,4 +1,4 @@
-https://github.com/srihas619/microservice-helm-string/blob/f15db496c1ddff91cc8020029723233efd6267a1/app-serve/app/app.py#L13-L15
+https://github.com/srihas619/microservice-helm-string/blob/f15db496c1ddff91cc8020029723233efd6267a1/app-serve/app/app.py#L13
 
 # Helm-microservice-app
 Helm chart to install a microservice-app with one service that serves a string and the other service that gets the string and serves the reverse of the same string.
